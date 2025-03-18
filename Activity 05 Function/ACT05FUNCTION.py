@@ -16,6 +16,7 @@ def summation(start, end):
         return None
     return sum(range(start, end + 1))
 
+# Direct execution
 while True:
     print("\nChoose an operation:")
     print("[D] - Divide")
